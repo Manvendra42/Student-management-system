@@ -1,0 +1,46 @@
+.form_deg{
+padding-top: 200px;
+opacity: 1;
+}
+.label{
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.btn{
+  margin-top: 10px;
+  width: 90px;
+  height: 50px;
+  border-radius: 20px;
+  border-color: black;
+  font-size: 15px;
+  background-color: skyblue;
+  color:white;
+}
+.btn:hover {
+  background-color: blue;
+  cursor: pointer;
+}
+.login_form{
+  width: 400px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.title{
+  color:white;
+  text-align: center;
+  font-weight: bold;
+  width:400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 40px;
+  font-family: monospace;
+}
+.body{
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
